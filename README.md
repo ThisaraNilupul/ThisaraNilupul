@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://x.com/TheTitoo" target="blank"><img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x.com&style=for-the-badge" alt="thisaranilupul"  </p>
 
-- 🎓 I’m an undergraduate studying **Computer Science** <br/> at **UOR-SRI LANKA**.
+- 🎓 I’m an undergraduate studying **Computer Science** <br/> **University of Ruhuna - Sri Lanka**.
 
-- 💻 Passionate about **FullStack Development**, **Open Source Projects**, and **UI/UX Design**.
+- 💻 Passionate about **FullStack Development** <br/> **Open Source Projects**, and **UI/UX Design**.
 
-- 🌱 Currently learning **React.js/Angular js**, **Node.js/ASP.net/SpringBoot**, and diving deeper into **cloud technologies**.
+- 🌱 Currently learning **React.js/Angular js** <br/>  **Node.js/ASP.net/SpringBoot** <br/>  diving deeper into **cloud technologies**.
 
 - 📫 How to reach me [thisaranilupul99@gmail.com](mailto:thisaranilupul99@gmail.com)
 
