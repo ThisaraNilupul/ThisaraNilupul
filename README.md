@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Thisara Nilupul</h1>
 <p align="center">
-  <b>Undergraduate Computer Science Student at UOR-SriLanka | Web Developer | Open Source Enthusiast</b>
+  <b>Undergraduate Computer Science Student at UOR-SriLanka | Full Stack Developer | Open Source Enthusiast</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thisara-nilupul/">LinkedIn</a> •
-  <a href="mailto:youremail@domain.com">Email</a> •
+  <a href="mailto:thisaranilupul99@gmail.com">Email</a> •
   <a href="https://github.com/ThisaraNilupul">GitHub</a>
 </p>
 
@@ -13,23 +13,17 @@
 
 ## 🚀 About Me
 
-- 🎓 I’m an undergraduate studying **Computer Science and Networking** at **SLIIT**.
-- 💻 Passionate about **Web Development**, **Open Source Projects**, and **UI/UX Design**.
+- 🎓 I’m an undergraduate studying **Computer Science** at **UOR**.
+- 💻 Passionate about **Full Stack Web Development**, **Open Source Projects**, and **UI/UX Design**.
 - 🌱 Currently learning **React.js**, **Node.js**, and diving deeper into **cloud technologies**.
-- 📫 Reach me at [youremail@domain.com](mailto:youremail@domain.com) or on [WhatsApp](https://wa.link/mylink).
+- 📫 Reach me at [thisaranilupul99@gmail.com](mailto:thisaranilupul99@gmail.com).
 
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThisaraNilupul&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraNilupul&layout=compact&theme=radical" width="335"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThisaraNilupul&show_icons=true&theme=radical" width="400" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisaraNilupul&layout=compact&theme=radical" width="335" height="400"/>
 </p>
-
-- **Total Stars Earned:** 350+
-- **Total Commits (2024):** 750+
-- **Total PRs:** 5+
-- **Total Issues:** 10+
-- **Contributed Repos (Last Year):** 5+
 
 ## 💼 Skills
 
