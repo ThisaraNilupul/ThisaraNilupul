@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisaraNilupul&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://x.com/TheTitoo" target="blank"><img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x.com&style=for-the-badge" alt="thisaranilupul"  </p>
+<p align="left">
+  <a href="https://x.com/TheTitoo" target="blank">
+    <img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x&style=for-the-badge" alt="thisaranilupul" />
+  </a>
+</p>
 
 - 🎓 I’m an undergraduate studying **Computer Science** at **UOR**.
 
