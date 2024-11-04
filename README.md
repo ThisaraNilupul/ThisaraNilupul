@@ -6,12 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisaraNilupul&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left">
-  <a href="https://x.com/TheTitoo" target="blank">
-    <img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x&style=for-the-badge" alt="thisaranilupul" />
-  </a>
-</p>
-
 - 🎓 I’m an undergraduate studying **Computer Science** at **UOR**.
 
 - 💻 Passionate about **FullStack Development**
@@ -117,7 +111,7 @@
 </a>
 </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThisaraNilupul&&theme=xcode)](https://github.com/ThisaraNilupul)
+[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ThisaraNilupul&&theme=xcode)](https://github.com/ThisaraNilupul)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThisaraNilupul&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ThisaraNilupul" /></p>
 
