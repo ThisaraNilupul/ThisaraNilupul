@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Undergraduate Student at SLIIT | Web Developer | Open Source Enthusiast</b>
+  <b>Undergraduate Computer Science Student at UOR-SriLanka | Web Developer | Open Source Enthusiast</b>
 </p>
 
 <p align="center">
