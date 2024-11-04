@@ -1,9 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Thisara Nilupul</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXXXXXX/XXXXXX-XXXX.png" alt="Thisara Nilupul Profile Image" width="200" height="200"/>
-</p>
-
 <p align="center">
   <b>Undergraduate Computer Science Student at UOR-SriLanka | Web Developer | Open Source Enthusiast</b>
 </p>
