@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://x.com/TheTitoo" target="blank"><img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x.com&style=for-the-badge" alt="thisaranilupul"  </p>
 
-- 🎓 I’m an undergraduate studying **Computer Science** at **UOR-SRI LANKA**.
+- 🎓 I’m an undergraduate studying **Computer Science** <br/> at **UOR-SRI LANKA**.
 
 - 💻 Passionate about **FullStack Development**, **Open Source Projects**, and **UI/UX Design**.
 
 - 🌱 Currently learning **React.js/Angular js**, **Node.js/ASP.net/SpringBoot**, and diving deeper into **cloud technologies**.
 
-- 📫 How to reach me [youremail@domain.com](mailto:thisaranilupul99@gmail.com)
+- 📫 How to reach me [thisaranilupul99@gmail.com](mailto:thisaranilupul99@gmail.com)
 
 - ⚡ Fun fact **I am Funny**
 
