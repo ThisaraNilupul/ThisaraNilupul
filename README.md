@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://x.com/TheTitoo" target="blank"><img src="https://img.shields.io/x.com/follow/TheTitoo?logo=x.com&style=for-the-badge" alt="thisaranilupul"  </p>
 
-- 🎓 I’m an undergraduate studying **Computer Science** <br/> **UOR**.
+- 🎓 I’m an undergraduate studying **Computer Science** at **UOR**.
 
 - 💻 Passionate about **FullStack Development**
 
